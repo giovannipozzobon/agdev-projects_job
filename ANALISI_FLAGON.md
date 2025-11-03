@@ -1,4 +1,4 @@
-# Analisi del Programma FlAgon - Dispositivo Agonlight e Console8
+# Analisi del Programma Flagon - Dispositivo Agonlight e Console8
 
 ## Panoramica
 
