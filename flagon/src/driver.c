@@ -10,7 +10,7 @@
  * 80 x 24 console.
  */
 
-#include <acurses.h>
+#include "acurses.h"
 //#include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

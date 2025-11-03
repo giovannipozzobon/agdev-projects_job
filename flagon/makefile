@@ -6,8 +6,8 @@ NAME = flagon
 DESCRIPTION = "Ag C Agon flappy bird"
 COMPRESSED = NO
 
-CFLAGS = -Wall -Wextra -Oz
-CXXFLAGS = -Wall -Wextra -Oz
+CFLAGS = -Wall -Wextra -Oz -Wimplicit-function-declaration
+CXXFLAGS = -Wall -Wextra -Oz -Wimplicit-function-declaration
 
 # ----------------------------
 
